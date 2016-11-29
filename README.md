@@ -1,1 +1,1 @@
-##save markdown photos to get image url.
+##Save markdown photos to get image URLs.
